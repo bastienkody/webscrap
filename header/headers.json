@@ -1,0 +1,531 @@
+[
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:85.0) Gecko/20100101 Firefox/85.0",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+"Accept-Language": "en-US,en;q=0.5",
+"Accept-Encoding": "gzip, deflate, br",
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/604.1",
+"Accept-Language": "en-US",
+"Accept-Encoding": "gzip, deflate, br"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.864.75 Safari/537.36 Edg/91.0.864.75",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+"Accept-Language": "en-US,en"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:85.0) Gecko/20100101 Firefox/85.0",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+"Accept-Language": "en-US,en;q=0.5",
+"Accept-Encoding": "gzip, deflate, br",
+"Connection": "keep-alive",
+"Upgrade-Insecure-Requests": "1",
+"Cache-Control": "max-age=0"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:85.0) Gecko/20100101 Firefox/85.0",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+"Accept-Language": "en-US,en;q=0.5",
+"Accept-Encoding": "gzip, deflate, br",
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0"
+},
+
+{
+"Referer": "https://www.google.com/",
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Mobile/15E148 Safari/604.1",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/604.1",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+},
+
+{
+"Referer": "https://www.google.com/", 
+"Connection": "keep-alive",
+"Cache-Control": "max-age=0",
+"Upgrade-Insecure-Requests": "1",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"Sec-Fetch-Site": "none",
+"Sec-Fetch-Mode": "navigate",
+"Sec-Fetch-User": "?1",
+"Sec-Fetch-Dest": "document",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US,en;q=0.9"
+}
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
